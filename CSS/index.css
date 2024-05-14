@@ -1,0 +1,26 @@
+:root{
+    --primary-color:black;
+    --sec-color:orange;
+    --prim-background: red;
+}
+
+body{
+    margin: 0;
+}
+header{
+    background-color: var(--prim-background);
+    text-align: center;
+    padding: 16px;
+
+}
+
+.logo-name a img{
+    height: 40px;
+}
+
+.name{
+    font-size: 24px;
+}
+.coder-text{
+    color: purple;
+}
