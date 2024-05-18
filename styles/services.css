@@ -3,18 +3,16 @@ main {
     flex-wrap: wrap;
     justify-content: center;
     gap: 32px;
-
 }
 
 article {
-    background-color: aqua;
-    /* padding: 24px; */
+    background-color: var(--secondary-color);
     border-radius: 16px;
     overflow: hidden;
     text-align: center;
     margin: 20px 0;
 }
 
-.services {
+.services-image {
     width: 400px;
 }
